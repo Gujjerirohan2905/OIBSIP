@@ -1,2 +1,0 @@
-# OIBSIP
-Java programming
